@@ -1,0 +1,5 @@
+hash-format = "sha256"
+
+[[files]]
+file = "packwiz.sh"
+hash = "810252871ebedecfc3bb0a20600d4b5fc68420fca607b8263a67d17291186cdf"
