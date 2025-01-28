@@ -167,7 +167,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "fa6b8fb1df7b6ce9bfab4b02b0542f5eefee9aaff37ec6194ed2512179938ae4"
+hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
 metafile = true
 
 [[files]]
@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-to-nearby-chests.pw.toml"
-hash = "ad1b5819bf41af4e0ad7115a0b79307f94244db3cdca739e35f70e1e3faf8c15"
+hash = "442bebdd4dfe4b845ee7c0beece28f65f5ac249b18431dbf881fa91b32acba4f"
 metafile = true
 
 [[files]]
