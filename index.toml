@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "Create"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "efd69603609e938fba9a1ccfb20d0c0122c0fcf078953391aae1baa295942969"
 metafile = true
