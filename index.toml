@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "mods.txt"
-hash = "693f3ebb63523194d0d62ada0dd57544ef5a8d2507080e54e5e920ddd3b472a6"
-
-[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "efd69603609e938fba9a1ccfb20d0c0122c0fcf078953391aae1baa295942969"
 metafile = true
@@ -443,11 +439,3 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "4e5e8e88792b8e320cf459b00b3f34e83af9732257d11b7bb3aaa411ef2e7f40"
 metafile = true
-
-[[files]]
-file = "packwiz.sh"
-hash = "810252871ebedecfc3bb0a20600d4b5fc68420fca607b8263a67d17291186cdf"
-
-[[files]]
-file = "setup.bat"
-hash = "7d49438ddcf2d5f66841cdeaad4a574c26d4af63ed136f73feb66fb67a5b5a74"
