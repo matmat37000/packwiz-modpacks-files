@@ -451,11 +451,6 @@ hash = "3f54b614eb461798f58865eee1010db33d655def64a09db688f7b2f8bbbad8c6"
 metafile = true
 
 [[files]]
-file = "mods/sound-physics-remastered.pw.toml"
-hash = "8fa4fd7d6da644f5fa814ba598101d3b33cf48a9b0dbabd1377248b495df25d3"
-metafile = true
-
-[[files]]
 file = "mods/spawn-animations.pw.toml"
 hash = "177c43b5d77ec9e16c82f86afa5430b3e040bb5072b4bdfdfb31f8e37631d704"
 metafile = true
