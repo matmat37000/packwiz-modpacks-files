@@ -1,12 +1,12 @@
 name = "Create One Block"
 author = "Mathiol"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "60a4644c191765f311ab44dec19f0b1d02e15303ef79f63268ffee9dd23fbce0"
+hash = "2b024110473a3a3c8deef43ce9db05287db96f44b05d4d11cdc40eaa4f545173"
 
 [versions]
 fabric = "0.16.10"
