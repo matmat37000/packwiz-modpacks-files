@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "efd69603609e938fba9a1ccfb20d0c0122c0fcf078953391aae1baa295942969"
+hash = "4d0eb25d1b5ba1f44cc9c568f8ba8ee88003b371a22ce397994a4e6cbf57ba32"
 metafile = true
 
 [[files]]
@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/athena-ctm.pw.toml"
-hash = "e11ddca37c00c8cdf8ee89c7b59df544f50966d2d6c5b016916f023afb98c02e"
+hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
@@ -41,6 +41,11 @@ hash = "a1e024094c28068c99a6da1c5867cbd4e66a315718039659bfa533a138762d9e"
 metafile = true
 
 [[files]]
+file = "mods/botarium.pw.toml"
+hash = "2f57caef93731338be19b1e14065978eb3e14dbfc0c1f9699dfcc2f201e2c23b"
+metafile = true
+
+[[files]]
 file = "mods/camera-utils.pw.toml"
 hash = "5bf200284967ba5b6cfc3c2fb9cd2a865b94a7b39dffb6b41f529cce7bc44185"
 metafile = true
@@ -57,12 +62,12 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
+hash = "5ba003768a235ab0d811218191166f9aefa4c9a2509341fbba1efd80e18d3676"
 metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "ffdcdb6c4fee23941dcca912a893f447d25f199d0a20cbf74ae7a1afc908e525"
+hash = "3811e560e5c08806170c284abb484baa91e44e9b649e8c18d12ba6563b4e0b0f"
 metafile = true
 
 [[files]]
@@ -77,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/clumps.pw.toml"
-hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+hash = "15385164e2cd07cce7493a10d6d87df5c7bce587a866613126be3b54b6b28fc7"
 metafile = true
 
 [[files]]
@@ -97,7 +102,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-copper-zinc.pw.toml"
-hash = "7bb145a22dfdfe6473db5490dfd3042f1daa2f5b20f25c2c8b3a90d454957871"
+hash = "0cc8c745db485907141be54fc0af039cb4d4b29ccefd9e9b834617b121c51fa8"
 metafile = true
 
 [[files]]
@@ -117,7 +122,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-jetpack.pw.toml"
-hash = "a4c2a82f18819ca71ab3e581c8535c21c69a3fa1f0b1b4cc066185cb972eb234"
+hash = "e5a350a26699fb065c64616f05e7b79c25d46344d9b40e82f6e35cd1d87836e8"
 metafile = true
 
 [[files]]
@@ -132,7 +137,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-railways-navigator.pw.toml"
-hash = "ef2f8f90ea5266e3fc77817c71a3a955faadff0c9fba71225f69d68d996886b8"
+hash = "8cf794fb79858ccbc1be9f4203b5a6603536b296650c17854a6b9dcc129476af"
 metafile = true
 
 [[files]]
@@ -167,7 +172,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "8718c1de38f03334743dd2c041d50b8643387f8b4a70a12d9f542f5931825b0a"
+hash = "b57e845b9447b543bb6d0f7f87c61fc35424d2cc9be6a87eb6561685b4d5415f"
 metafile = true
 
 [[files]]
@@ -182,17 +187,22 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "8c84f53560aaa3c65293f5a04748ffe9e00457b9c69347aedc2c9daa915809af"
+hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "1a9dfcbf1c493d1548e78755754613f6f34e0d8e0a5ac390a62d8bb320b31d20"
+hash = "5e82a66ffe393248e8465e038352a6ca04773fc4ffca58f5f53204feccf16ae6"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f8511a51add24e6a5d31a05ff13a8fdd6825f9a8924404e439995c52097eed56"
+hash = "c215eb5e72c03da7cd91a9d9473adc0f3e30008fb7588188be08bb45929739ce"
+metafile = true
+
+[[files]]
+file = "mods/essential.pw.toml"
+hash = "3b0777c1daf683fd11d14962a255d0ebcc0d12547fef6cbedcdfb6602659f5ea"
 metafile = true
 
 [[files]]
@@ -227,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/findme.pw.toml"
-hash = "f608b8ea0277a4a27e4f61f17ac689f9d2d105e5ebcd2b0893caa437fd576af4"
+hash = "915dd342659f472c1e26ad781831eea4b8b5c47d5d68c426432008ae361d325f"
 metafile = true
 
 [[files]]
@@ -367,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "5c07edd0c8fe82e85efd6c027476ba54cf98291526803b74614c3436292e4ab6"
+hash = "3f9e020fb15e1c2ede36d50b40c72d536f6de3f817bd703d26805a747175c8bc"
 metafile = true
 
 [[files]]

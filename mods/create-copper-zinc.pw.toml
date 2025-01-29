@@ -1,13 +1,13 @@
 name = "Create: Copper & Zinc [Forge/Fabric]"
-filename = "create_copper_and_zinc-1.5.0-forge-1.19.2.jar"
+filename = "create_copper_and_zinc-1.5.0-fabric-1.20.1.jar"
 side = "server"
 
 [download]
-url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/74YapmJ8/create_copper_and_zinc-1.5.0-forge-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/aqYNR6rI/versions/kwNfMUJt/create_copper_and_zinc-1.5.0-fabric-1.20.1.jar"
 hash-format = "sha512"
-hash = "760e52428282b765b3c354faa484fe42b3ce697cec276650fd3b4df69e14787442970c99a905402ba24a3ad79798dd3854c9bf478efa8367cc8c985009ba95dc"
+hash = "1ca67f0678efde5a07242d0c67a463ec1234ddfc9edb296e5f8d6cc07ddab950e08dd67bcac48312b3bd534be12f48e58868be67c181ad960e966243d6be0e54"
 
 [update]
 [update.modrinth]
 mod-id = "aqYNR6rI"
-version = "74YapmJ8"
+version = "kwNfMUJt"

@@ -1,13 +1,13 @@
 name = "Create Jetpack"
-filename = "create_jetpack-forge-4.2.0.jar"
+filename = "create_jetpack-fabric-4.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/EGrZabeG/create_jetpack-forge-4.2.0.jar"
+url = "https://cdn.modrinth.com/data/UbFnAd4l/versions/IwBgWAGw/create_jetpack-fabric-4.2.0.jar"
 hash-format = "sha512"
-hash = "941e583cbfdbb361a61ea0d1bf417a98b222e472466941413c0efcadde5eaacf7b001aad814413d89dc824a77bd4b0dc833b8d4a5b90678429ebc04e22006c41"
+hash = "88aee08e888e4dc20a83edf7187b0f3dc7e16eec3883a428c95c6247186983f75ddde1962c6fccca84b85ff80f0ac1e4b206e12ba0da8bf959e43eea44b80c28"
 
 [update]
 [update.modrinth]
 mod-id = "UbFnAd4l"
-version = "EGrZabeG"
+version = "IwBgWAGw"
