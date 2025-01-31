@@ -1,0 +1,13 @@
+name = "Perfect Plushies"
+filename = "perfectplushies-fabric-1.20.1-1.12.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L5MLckDN/versions/DiuLKqAI/perfectplushies-fabric-1.20.1-1.12.0.jar"
+hash-format = "sha512"
+hash = "fa004042dd47fe916ed4941d4ea677f69cdef5f3a55e4472dfded6f11086999c120545b9cec0129d2d42b0d1e8731cb3d4e10c0948df608b225701d60f64d45a"
+
+[update]
+[update.modrinth]
+mod-id = "L5MLckDN"
+version = "DiuLKqAI"

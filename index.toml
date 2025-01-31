@@ -276,6 +276,11 @@ hash = "98af4efd7fd748e20cdfad8b6754c312e2721adc25ed0662f211eaf2eb6331f5"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "0e99c9b4a524d9cb74553f7b3ed331081031fef9d3c0c437f3734fbd9a350a2d"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "f669b069214a8e88d17066ff6715fe131568cd190450ba408b4c2c5479a1a263"
 metafile = true
@@ -411,8 +416,8 @@ hash = "967301c625cd4499dced8d62e137c60c7b8b8f3dee9d377766518784194e0bc8"
 metafile = true
 
 [[files]]
-file = "mods/plushed.pw.toml"
-hash = "478f81c0a3ae4a94316c6e3d77d7e0d9a5e3cf2d62df6c4672db27efd4bba732"
+file = "mods/perfect-plushies.pw.toml"
+hash = "cc4d088303f009889bbe75fd01b5b8ae01222e0bddc2aadf6b53d7808e62f6e1"
 metafile = true
 
 [[files]]
