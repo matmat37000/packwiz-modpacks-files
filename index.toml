@@ -411,6 +411,11 @@ hash = "967301c625cd4499dced8d62e137c60c7b8b8f3dee9d377766518784194e0bc8"
 metafile = true
 
 [[files]]
+file = "mods/plushed.pw.toml"
+hash = "478f81c0a3ae4a94316c6e3d77d7e0d9a5e3cf2d62df6c4672db27efd4bba732"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "a9769ced0531122518321833966d375196753db1c3a47b975aed4bb6837fae7a"
 metafile = true
