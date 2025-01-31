@@ -26,6 +26,11 @@ hash = "064b0019e4f545599e5af2a4f74f11777086fce18e68f0b93dd77136ce7c0193"
 metafile = true
 
 [[files]]
+file = "mods/autoshutdown.pw.toml"
+hash = "3bb481516286924d6a72fbc8038452db198c314cf7d65c3b2784fd7150c86d5b"
+metafile = true
+
+[[files]]
 file = "mods/axiom.pw.toml"
 hash = "fa8863c2847024f4f665c94a643e87cfd48f88f86a49525bbc1260db9a94c8be"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "ac7153ccd646c14f801c2fe70c50eec5633db769ff1837f5ae00f45ff78a16e4"
+metafile = true
+
+[[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "5d83b1518fa7939016af80f298348a2a28713a42cc7323fb33331098853b4210"
 metafile = true
 
 [[files]]
@@ -403,6 +413,11 @@ metafile = true
 [[files]]
 file = "mods/niftycarts.pw.toml"
 hash = "967301c625cd4499dced8d62e137c60c7b8b8f3dee9d377766518784194e0bc8"
+metafile = true
+
+[[files]]
+file = "mods/plushed.pw.toml"
+hash = "478f81c0a3ae4a94316c6e3d77d7e0d9a5e3cf2d62df6c4672db27efd4bba732"
 metafile = true
 
 [[files]]

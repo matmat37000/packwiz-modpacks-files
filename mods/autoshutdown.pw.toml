@@ -1,0 +1,13 @@
+name = "AutoShutdown"
+filename = "autoshutdown-fabric-1.0.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/GANSln7U/versions/YwJsaEEm/autoshutdown-fabric-1.0.1.jar"
+hash-format = "sha512"
+hash = "921921963bf412c07fe931a7b864b01c29416e94cdcb45db78c2f97e3a6978c505dceec4bfba2a5a13bb9682d8223b04beecabae15931c6e9b11ab40b974c8fd"
+
+[update]
+[update.modrinth]
+mod-id = "GANSln7U"
+version = "YwJsaEEm"
