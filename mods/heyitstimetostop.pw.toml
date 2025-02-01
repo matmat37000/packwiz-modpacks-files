@@ -1,0 +1,13 @@
+name = "Hey! It's Time to Stop!"
+filename = "hitts-1.1.0-1.20.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/JziKDP7Q/versions/C18xoDU2/hitts-1.1.0-1.20.1.jar"
+hash-format = "sha512"
+hash = "352842342a5b1740c8daf35fe359ce2f70f383e5762399be808e1f21bf0965c76c08902d14bf9e68457028ed0c6f88dd2d7ae3694912b87976d0cf3e2590955f"
+
+[update]
+[update.modrinth]
+mod-id = "JziKDP7Q"
+version = "C18xoDU2"
