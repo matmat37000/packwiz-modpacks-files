@@ -211,6 +211,31 @@ hash = "2ac3875f3784e2e43878e2e645c1c8932df7db7eb61ed1f8614937845e74ef5a"
 metafile = true
 
 [[files]]
+file = "mods/emi-create-schematics.pw.toml"
+hash = "c19a508c148dbd12a6b9d5b1576d312ae2ba5dbbc300bcc46d7f9aae1b73e81a"
+metafile = true
+
+[[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "e07935009e03be5e7ae2545f413113c7c8cece2053ba74021d4a26f7e29e8a2a"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "af8a0e02b6d8e380087e02fd7441bb7c546d6ab20d5f7642e04925e74cbd7659"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "aa098fe2f0399fe8c95450af73f406eba41aee3bb58f5a450c434c713ca8cf5f"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "71d944c917bf1e4f0f6fac8c39f3b1038becaa039cdf3638982f4cdb58ef99b4"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "4eebbd915505891152179070e92c440f7ae3d3bf0ff6497936da38f77a621910"
 metafile = true
@@ -233,6 +258,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "da94bb1404b4c2acf50119cf0914bb846b4cf4e91fd727317d8dcbe9a671cd1b"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "376321a4e11e86d932670192b6ddebfd7b898c4e47e74a6b08c7c0123a0aa49c"
 metafile = true
 
 [[files]]
@@ -273,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
 hash = "98af4efd7fd748e20cdfad8b6754c312e2721adc25ed0662f211eaf2eb6331f5"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "7fcd61647cb58f7d690016a19c9e89e7280dcd1a31f57c66426ac95ec0e66653"
 metafile = true
 
 [[files]]
@@ -338,11 +373,6 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "390c9242cd4bc9eac27379a72081e5e60b6af0ba39706bb4b43dd55399c664f8"
-metafile = true
-
-[[files]]
-file = "mods/jei.pw.toml"
-hash = "88a665fe5b5b8dfd8535db068e9972d8a41af502602fc600a931520e434637ae"
 metafile = true
 
 [[files]]
